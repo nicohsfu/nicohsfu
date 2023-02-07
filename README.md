@@ -5,6 +5,7 @@
     - 💻 Learning foundational Java + Android Studio along the way, for example:
         - 💯 [Course Grade Calculator](https://github.com/nicohsfu/course-grade-calculator)
         - 🏈 [NFL Player Stat Lookup](https://github.com/nicohsfu/nfl-player-stat-lookup)
+        - 📱 [Android Device Sensors](https://github.com/nicohsfu/android-device-sensors)
         - 🔜 *... and more to come*
     
 🔧 Some projects I've worked on which are hosted on my friends' repos:
