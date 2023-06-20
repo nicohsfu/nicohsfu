@@ -1,4 +1,6 @@
-📚 I’m currently working on:
+📢 Just realized that my commits to **private** repos (for my current job) are not showing up as green squares. Rest assured, I'm still alive and coding!
+
+📚 I’m working on:
   - 🐊 [Crocodile Tiers](https://github.com/kaseyvee/crocodile-tiers) (with [kaseyvee](https://github.com/kaseyvee/)) -  A full-stack web app for users to create and share tier lists 
   - 🔴 [Pokestack](https://github.com/nicohsfu/pokestack) (with [SamJamZzz](https://github.com/SamJamZzz)) - An app where you can create, compare, and view Pokemon decks
   - 🎓 Finishing up my final semester as an undergrad at Simon Fraser University
